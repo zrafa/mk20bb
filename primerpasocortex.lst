@@ -1,0 +1,34 @@
+eeschema (22-Jun-2014 BZR 4027)-stable  >> Creation date: mié 12 ago 2015 09:26:01 ART
+#Cmp ( order = Reference )
+| C1         100n        
+| C2         100n        
+| C3         100n        
+| D1         1N4728A     
+| D2         LED         
+| P1         CONN_4      
+| P2         CONN_14     
+| R1         10K         
+| R2         33          
+| R3         33          
+| R4         1k          
+| SW1        SW_PUSH     
+| U1         MK20LF      
+#End Cmp
+
+#Componentes ( orden = Valor )
+| 100n         C1        
+| 100n         C2        
+| 100n         C3        
+| 1N4728A      D1        
+| LED          D2        
+| CONN_4       P1        
+| CONN_14      P2        
+| 33           R2        
+| 33           R3        
+| 1k           R4        
+| 10K          R1        
+| SW_PUSH      SW1       
+| MK20LF       U1        
+#Fin Componentes
+
+#Fin de Lista
